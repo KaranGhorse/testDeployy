@@ -15,7 +15,7 @@ app.get('/about', (req,res)=>{
 })
 
 app.get('/register', (req,res)=>{
-    res.send('<h1>register page</h1>')
+    res.send('<h1>register aala re</h1>')
 })
 app.get('/login', (req,res)=>{
     res.send('<h1>login page</h1>')
